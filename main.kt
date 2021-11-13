@@ -2,7 +2,7 @@
 
 fun main() {
 
-    for (n in 1..66) {
+    for (n in 1..10) {
         println("How many standard young tableaux are there of L-shape\n" +
                 " with 2 boxes in the first row and 1 box for the next\n" +
                 " ${n-2} rows with a total of $n boxes?")
